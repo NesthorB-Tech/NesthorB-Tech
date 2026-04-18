@@ -1,13 +1,13 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=¡Hola!%20Soy%20Néstor%20Blanco&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=¡Hola!%20Soy%20Néstor%20"B"&fontSize=40&fontColor=ffffff)
 
-# ¡Hola! Soy Néstor Neftaly Blanco Lúe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Prof. Néstor Blanco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ---
 
 ## 🙋 Sobre mí
 
-- Docente Técnico desde Sonsonate, El Salvador
-- 🎓 Participante del Bootcamp **Transformación Digital para la Docencia Técnica** (288 horas)
+- 👨🏻‍🏫 Docente Técnico de Computación desde Sonsonate, El Salvador
+- 🎓 Participante del Bootcamp **Transformación Digital para la Docencia Técnica**
 - 💡 Me apasiona entender cómo funciona la tecnología para poder enseñarla y despertar el interés tecnológico en mis estudiantes
 - 🌱 Aprendiendo desarrollo web, inteligencia artificial, automatización y despliegue en la nube
 - 🎧 En mi tiempo libre: audiolibros, natación, series de TV, familia, mariscos y aire de montaña 🏔️
