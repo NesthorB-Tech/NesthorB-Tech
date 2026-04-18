@@ -6,7 +6,7 @@
 
 ## 🙋 Sobre mí
 
-- 🇸🇻 Docente técnico desde Sonsonate, El Salvador
+- Docente técnico desde Sonsonate, El Salvador
 - 🎓 Participante del Bootcamp **Transformación Digital para la Docencia Técnica** (288 horas)
 - 💡 Me apasiona entender cómo funciona la tecnología para poder enseñarla y despertar el interés tecnológico en mis estudiantes
 - 🌱 Aprendiendo desarrollo web, inteligencia artificial, automatización y despliegue en la nube
